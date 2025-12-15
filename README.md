@@ -1,41 +1,50 @@
-# Eyup_Cinar-Nvidia_DeepLearning
-# NVIDIA Fundamentals of Deep Learning 🚀
+# Fundamentals of Deep Learning by NVIDIA
 
-This repository contains my notes, code implementations, and projects from the NVIDIA Deep Learning Institute course.
+This repository contains my notes, assignments, and projects from the **Fundamentals of Deep Learning** course offered by NVIDIA. This course provides a comprehensive introduction to the core concepts and practices in deep learning, aiming to equip participants with the foundational skills needed to develop and apply deep learning models effectively.
 
-## 📚 Course Content & Progress
+## Course Overview
 
-- [ ] **Part 1: Introduction to Deep Learning**
-  - History of AI (Perceptrons)
-  - Biological inspiration vs. Machine Learning
+The **Fundamentals of Deep Learning** course covers:
 
-- [ ] **Part 2: How a Neural Network Trains**
-  - Loss Functions (MSE, RMSE) & Optimization (Gradient Descent)
-  - Activation Functions (ReLU, Sigmoid)
-  - Overfitting & Validation
+1. **Introduction to Deep Learning:**
+   - Understanding the basics of neural networks.
+   - Learning about different types of layers and activation functions.
+   - Comprehending the process of training and optimizing neural networks.
 
-- [ ] **Part 3: Convolutional Neural Networks (CNNs)**
-  - Kernels, Convolutions, and Pooling layers
-  - Image Classification on MNIST/ASL datasets
+2. **Deep Learning Techniques:**
+   - Exploring Convolutional Neural Networks (CNNs) for image recognition.
+   - Understanding Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks for sequence data.
+   - Learning about Generative Adversarial Networks (GANs) for generating new data.
 
-- [ ] **Part 4: Data Augmentation & Deployment**
-  - Techniques: Rotation, Flipping, Zooming
-  - Model deployment strategies
+3. **Advanced Topics:**
+   - Transfer Learning: Leveraging pre-trained models for new tasks.
+   - Data Augmentation: Improving model robustness and performance.
+   - Fine-Tuning: Adapting models to specific datasets.
 
-- [ ] **Part 5: Pre-Trained Models (Transfer Learning)**
-  - Using VGG16, ResNet, etc.
-  - Fine-tuning models for custom datasets (e.g., Automated Doggy Door)
+4. **Practical Implementation:**
+   - Hands-on projects and assignments using popular deep learning frameworks such as TensorFlow and PyTorch.
+   - Implementing various deep learning architectures to solve real-world problems.
+   - Evaluating and fine-tuning models to achieve optimal performance.
 
-- [ ] **Part 6: Advanced Architectures**
-  - NLP, RNNs, and Attention Mechanisms
-  - Transformers (BERT) & Autoencoders
-  - Introduction to Reinforcement Learning
+## Repository Structure
 
-## 🛠 Technologies Used
-* Python
-* PyTorch / TensorFlow
-* Pandas & NumPy
-* Jupyter Notebooks
+- **Notes:** Summarized concepts and key takeaways from each module.
+- **Assignments:** Completed assignments with code and explanations.
+- **Projects:** Practical projects demonstrating the application of deep learning techniques.
+- **Resources:** Additional materials, such as research papers, articles, and helpful links.
 
-## 📜 Certificate
-(Eğitimi bitirince sertifikanı buraya ekleyebilirsin)
+## Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/RagnarokFate/Fundamentals-of-Deep-Learning.git
+   cd fundamentals-of-deep-learning
+   ```
+2. **Install dependencies:**
+Follow the instructions provided in each module or assignment folder for installing the required dependencies.
+
+3. **Explore and Learn:** 
+Navigate through the notes, assignments, and projects to understand the deep learning concepts and their practical implementations.
+
+## Gratitude 
+This course and the materials in this repository are based on the Fundamentals of Deep Learning course by NVIDIA. Special thanks to the NVIDIA Deep Learning Institute for providing such a valuable learning resource.
